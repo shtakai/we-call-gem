@@ -1,5 +1,7 @@
 # We::Call
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/we-call-gem.svg)](https://www.guardrails.io)
+
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![MIT License][license-image]][license-url]
